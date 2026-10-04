@@ -1,0 +1,4 @@
+timestamp,type,severity,description
+2026-10-04T19:43:57,FACE_LOST,INFO,Driver not detected
+2026-10-04T19:42:34,FACE_LOST,INFO,Driver not detected
+2026-10-04T19:42:13,FACE_LOST,INFO,Driver not detected
